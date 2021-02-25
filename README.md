@@ -2,5 +2,5 @@
 GitHub y R-Studio
 
 ```R
-datos <- read.csv("File")
+datos <- read.csv("file-name.csv")
 ```
